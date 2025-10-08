@@ -1,4 +1,7 @@
-node_modules/
-dist/
-.env
-.DS_Store
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Local.json
+appsettings.Development.json
