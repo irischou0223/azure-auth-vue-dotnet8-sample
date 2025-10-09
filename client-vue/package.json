@@ -1,0 +1,1 @@
+{\n  "name": "client-vue",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite"\n  },\n  "dependencies": {\n    "@azure/msal-browser": "^3.0.0",\n    "@azure/msal-vue": "^1.0.0",\n    "axios": "^1.0.0",\n    "vue": "^3.0.0"\n  }\n}
